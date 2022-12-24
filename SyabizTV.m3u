@@ -1,7 +1,5 @@
 #EXTM3U
 
-<!-- INDONESIA -->
-
 #EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/antv-indonesia.png" group-title=" INDONESIA", ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
@@ -16,25 +14,26 @@ https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/rcti-indonesia.png",RCTI
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/rcti-indonesia.png",RCTI
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/gtv-indonesia.png",GTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/gtv-indonesia.png",GTV
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/mnctv-indonesia.png",MNC TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/mnctv-indonesia.png",MNC TV
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/inews-indonesia.png",iNews
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/inews-indonesia.png",iNews
 https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-<!-- CADANGAN -->
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/antv-indonesia.png" group-title=" CADANGAN", ANTV 1
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
