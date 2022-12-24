@@ -1,0 +1,42 @@
+#EXTM3U
+
+<!-- INDONESIA -->
+
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/antv-indonesia.png" group-title=" INDONESIA", ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/kompastv-indonesia.png" group-title=" INDONESIA", KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/metrotv-indonesia.png" group-title=" INDONESIA ", METRO TV 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/indosiar-indonesia.png" group-title=" INDONESIA ", INDOSIAR 
+https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+
+<!-- CADANGAN -->
+
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/antv-indonesia.png" group-title=" CADANGAN", ANTV 1
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/antv-indonesia.png" group-title=" CADANGAN", ANTV 2
+http://210.210.155.35:80/session/606cfb24-478c-11ed-8ebd-b82a72d63267/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/kompastv-indonesia.png" group-title=" CADANGAN", KOMPAS TV 1
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/kompastv-indonesia.png" group-title=" CADANGAN", KOMPAS TV 2
+http://rr2.dens.tv/s/s104/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/kompastv-indonesia.png" group-title=" CADANGAN", KOMPAS TV 3
+http://210.210.155.35:80/session/5e03d898-478d-11ed-8c69-b82a72d63267/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/metrotv-indonesia.png" group-title=" CADANGAN", METRO TV  1
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/metrotv-indonesia.png" group-title=" CADANGAN", METRO TV  2
+http://rr.dens.tv/h/h12/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/metrotv-indonesia.png" group-title=" CADANGAN", METRO TV  3
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/indosiar-indonesia.png" group-title=" CADANGAN", INDOSIAR 
+https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+
+#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/indosiar-indonesia.png" group-title=" CADANGAN", INDOSIAR 
+http://rr2.dens.tv/s/s04/01.m3u8
