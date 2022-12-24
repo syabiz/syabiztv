@@ -14,16 +14,24 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/indosiar-indonesia.png" group-title=" INDONESIA ", INDOSIAR 
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/rcti-indonesia.png" group-title=" INDONESIA ", RCTI 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/rcti-indonesia.png",RCTI
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/gtv-indonesia.png" group-title=" INDONESIA ", GTV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/gtv-indonesia.png",GTV
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/mnctv-indonesia.png" group-title=" INDONESIA ", MNCTV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/mnctv-indonesia.png",MNC TV
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/inews-indonesia.png" group-title=" INDONESIA ", INEWS 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://cdn.statically.io/gh/syabiz/syabiztv/main/images/tvg-logo/inews-indonesia.png",iNews
 https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 <!-- CADANGAN -->
