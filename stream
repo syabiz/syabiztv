@@ -846,6 +846,10 @@ http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298529
  
  
 ```````` Religi ````````
+#EXTINF:-1 group-title="Religi" tvg-id="alwafatarim.id" tvg-logo="https://alwafatarim.tv/assets/images/logo.png",Al Wafa Tarim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
 #EXTINF:-1 group-title="Religi" tvg-id="madanitv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Madani_TV.jpg",Madani TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
