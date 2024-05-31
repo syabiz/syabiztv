@@ -121,15 +121,23 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV Malaysia",TV3 🇲🇾
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://live-streams-ssai-01.tonton.com.my/live/457a4027-aabd-4218-90c1-9bb77ea4ce04/live.isml/.m3u8
+http://iptvtree.net:8080/AmirBilali/76448035/158360
+
+#EXTINF:-1 tvg-id="NTV7.my" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b92ffe0e329e6808620cf9b9f92f1523.png" group-title="TV Malaysia",NTV7 🇲🇾
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+http://iptvtree.net:8080/AmirBilali/76448035/174695
 
 #EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="TV Malaysia",8TV 🇲🇾
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+http://iptvtree.net:8080/AmirBilali/76448035/171968
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="TV Malaysia",TV9 🇲🇾
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://live-streams-ssai-01.tonton.com.my/live/9422b240-d5e7-4bcb-aff3-98ae4eddc7fd/live.isml/.m3u8
+http://iptvtree.net:8080/AmirBilali/76448035/171953
+
+#EXTINF:-1 tvg-id="Alhijrah.my" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7bcedbeb3814000d4e785498f51b2099.png" group-title="TV Malaysia",TV Alhijrah 🇲🇾
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+http://iptvtree.net:8080/AmirBilali/76448035/157491
 
 #EXTINF:-1 tvg-id="HotTV.my" tvg-logo="https://i.imgur.com/W2rXjWd.png" group-title="TV Malaysia",Hot TV 🇲🇾
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
