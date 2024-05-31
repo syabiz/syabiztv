@@ -129,7 +129,7 @@ https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="TV Malaysia",TV9 🇲🇾
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
+https://live-streams-ssai-01.tonton.com.my/live/9422b240-d5e7-4bcb-aff3-98ae4eddc7fd/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="HotTV.my" tvg-logo="https://i.imgur.com/W2rXjWd.png" group-title="TV Malaysia",Hot TV 🇲🇾
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
