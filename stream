@@ -1,43 +1,4 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",01. ETV Live Event 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298491
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",02. ETV Live Event 02 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298492
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 Angry Birds Toons 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298493
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 BabyBus Indonesia 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298494
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 Donald Ducks 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298495
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 Doraemon 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298496
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 Just For Laughs 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298497
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 Mr Bean Cartoon 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298498
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 Mr. Bean Classic 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298499
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 Tom And Jerry 🇮🇩
-http://iptvtree.net:8080/AmirBilali/76448035/298500
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 Upin Ipin
-http://iptvtree.net:8080/AmirBilali/76448035/298501
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",24/7 Warkop DKI
-http://iptvtree.net:8080/AmirBilali/76448035/298502
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TV Indonesia",AMTV &#40;Aula Media TV&#41;
-http://iptvtree.net:8080/AmirBilali/76448035/299484
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="TV Indonesia",ANIMAL PLANET
 http://iptvtree.net:8080/AmirBilali/76448035/157532
