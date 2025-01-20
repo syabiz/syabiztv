@@ -9,7 +9,7 @@
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
 #https://spmid.pw:443/play/GkGM6jSBmCa7M-wN__A44xz-ZxEgAXrFRka8l9msaDo
 
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -20,7 +20,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
 =============== RELIGI ===============
-#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://www.image.com/image.png" group-title="RELIGI",Al Wafa Tarim TV 
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/al-wafa-tarim.jpg" group-title="RELIGI",Al Wafa Tarim TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
