@@ -84,29 +84,29 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10
 #KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
 https://d1abp075u76pbq.cloudfront.net/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="JakTV.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/jaktv.png", JAKTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|Referer=https://www.visionplus.id/
+
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="JTV.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/jtv.png", JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="BaliTV.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/balitv.png", BALI TV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/moji.jpg", MOJI
+http://xtv.ooo:8080/30912088/60996054/350997.ts
+
+=============== DAERAH ===============
+#EXTINF:-1 group-title="TV DAERAH" tvg-id="JakTV.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/jaktv.png", JAKTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="TV DAERAH" tvg-id="BandungTV.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/bandungtv.png", BANDUNG TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 group-title="TV DAERAH" tvg-id="BaliTV.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/balitv.png", BALI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/moji.jpg", MOJI
-http://xtv.ooo:8080/30912088/60996054/350997.ts
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="BandungTV.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/bandungtv.png", BANDUNG TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
-=============== DAERAH ===============
-
 
 =============== RELIGI ===============
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlWafaTarim.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo-v2/al-wafa-tarim.jpg", AL WAFA TARIM 
