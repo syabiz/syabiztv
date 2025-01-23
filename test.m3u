@@ -92,7 +92,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u
 http://xtv.ooo:8080/30912088/60996054/350997.ts
 
 =============== MALAYSIA ===============
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="tv1.my" tvg-name="TV1"  group-logo="" tvg-logo="https://perfecttv.net/logo/tv1.png", TV1
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="tv1.my" tvg-name="TV1"  group-logo="" tvg-logo="https://perfecttv.net/logo/tv1.png", TV1 🇲🇾
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -102,13 +102,13 @@ http://xtv.ooo:8080/30912088/60996054/350997.ts
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="tv2.my" tvg-name="TV2" tvg-logo="https://perfecttv.net/logo/tv2.png", TV2
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="tv2.my" tvg-name="TV2" tvg-logo="https://perfecttv.net/logo/tv2.png", TV2 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://perfecttv.net/logo/tv3.png", TV3
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://perfecttv.net/logo/tv3.png", TV3 🇲🇾
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,14 +118,14 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mp
 #https://linearjitp.perfecttv.net/tv3.mpd
 http://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="ntv7.my" tvg-name="TV7" tvg-logo="https://perfecttv.net/logo/ntv7.png", TV7
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="ntv7.my" tvg-name="TV7" tvg-logo="https://perfecttv.net/logo/ntv7.png", TV7 🇲🇾
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="8tv.my" tvg-name="8TV" tvg-logo="https://perfecttv.net/logo/8tv.png", 8TV
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="8tv.my" tvg-name="8TV" tvg-logo="https://perfecttv.net/logo/8tv.png", 8TV 🇲🇾
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -133,7 +133,7 @@ https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 #KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
 http://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="tv9.my" tvg-name="TV9" tvg-logo="https://perfecttv.net/logo/tv9.png", TV9
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="tv9.my" tvg-name="TV9" tvg-logo="https://perfecttv.net/logo/tv9.png", TV9 🇲🇾
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -141,13 +141,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
 https://unifi-live31.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="tvs.my" tvg-name="TVS" tvg-logo="https://perfecttv.net/logo/tvs.png", TVS
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="tvs.my" tvg-name="TVS" tvg-logo="https://perfecttv.net/logo/tvs.png", TVS 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="okey.my" tvg-name="TV Okey"  tvg-logo="https://perfecttv.net/logo/okey.png", Okey
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="okey.my" tvg-name="TV Okey"  tvg-logo="https://perfecttv.net/logo/okey.png", Okey 🇲🇾
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
