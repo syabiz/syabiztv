@@ -85,8 +85,7 @@ http://xtv.ooo:8080/30912088/60996054/350997.ts
 
 
 ######################### TVRI GROUP #########################
-
-#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tgv-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nasional-id.png" group-title="TVRI Group",TVRI Nasional
+#EXTINF:-1 tvg-id="" tgv-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nasional-id.png" group-title="TVRI Group",TVRI Nasional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
 https://d1abp075u76pbq.cloudfront.net/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd|Referer=https://www.visionplus.id/
