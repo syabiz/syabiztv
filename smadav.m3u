@@ -83,7 +83,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|Ref
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/moji-id.png", MOJI
 http://xtv.ooo:8080/30912088/60996054/350997.ts
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRINasional.id" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nasional-id.png" group-title="TVRI Group",TVRI Nasional
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRINasional.id" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nasional-id.png",TVRI Nasional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
 https://d1abp075u76pbq.cloudfront.net/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd|Referer=https://www.visionplus.id/
