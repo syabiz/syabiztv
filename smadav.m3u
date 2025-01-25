@@ -187,7 +187,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulswesi-tengah-id.png"group-title="TVRI Group",TVRI Sulawesi Tengah
+#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-tengah-id.png"group-title="TVRI Group",TVRI Sulawesi Tengah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
