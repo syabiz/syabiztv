@@ -102,7 +102,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h35/index.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Inspira.id" tvg-name="INSPIRA" tgv-url="https://inspira.tv/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/inspira.png", INSPIRA
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="NusantaraTV.id" tvg-name="NUSANTARA TV" tgv-url="https://nusantaratv.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/inspira.png", NUSANTARA TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="NusantaraTV.id" tvg-name="NUSANTARA TV" tgv-url="https://nusantaratv.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/nusantara-tv-id.png", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="MagnaChannel.id" tvg-name="MAGNA CHANNEL" tgv-url="https://video.medcom.id/magnachannel" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/magna-channel-id.png", MAGNA CHANNEL
