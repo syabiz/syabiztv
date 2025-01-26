@@ -2291,10 +2291,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 
 ####################################################################### BEIN GROUP #######################################################################
-#EXTINF:-1 group-title="beIN Group" ,beIN Sport 1
+#EXTINF:-1 group-title="BEIN GROUP" tvg-id="beINSport1" tvg-name="BEIN SPORT 1" tgv-url="" tvg-logo="", BEIN SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://gcf.nrslist.com/TVD4001/index.mpd
 
-#EXTINF:-1 group-title="beIN Group" ,beIN Sport 2 
+#EXTINF:-1 group-title="BEIN GROUP" tvg-id="beINSport2" tvg-name="BEIN SPORT 2" tgv-url="" tvg-logo="", BEIN SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://gcf.nrslist.com/TVD4002/index.mpd
