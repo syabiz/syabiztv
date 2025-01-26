@@ -1,24 +1,20 @@
 ####################################################################### INDONESIA #######################################################################
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Indosiar.id" tvg-name="INDOSIAR" tgv-url="https://www.indosiar.com/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/indosiar-id.png.PNG", INDOSIAR
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Indosiar.id" tvg-name="INDOSIAR" tgv-url="https://www.indosiar.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/indosiar-id.png.PNG", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="SCTV.id" tvg-name="SCTV" tgv-url="https://www.sctv.co.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/sctv-id.png", SCTV 
+#EXTINF:-1 group-title="INDONESIA" tvg-id="SCTV.id" tvg-name="SCTV" tgv-url="https://www.sctv.co.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/sctv-id.png", SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI.id" tvg-name="RCTI" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/rcti-id.png", RCTI
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI.id" tvg-name="RCTI" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/rcti-id.png", RCTI
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV.id" tvg-name="GTV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/gtv-id.png", GTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV.id" tvg-name="GTV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/gtv-id.png", GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
@@ -27,75 +23,62 @@ tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="iNews.id" tvg-name="INEWS" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/inews-id.png", INEWS
+#EXTINF:-1 group-title="INDONESIA" tvg-id="iNews.id" tvg-name="INEWS" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/inews-id.png", INEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="SindoNews.id" tvg-name="SINDO NEWS" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/sindo-tv-id.png", SINDO NEWS
+#EXTINF:-1 group-title="INDONESIA" tvg-id="SindoNews.id" tvg-name="SINDO NEWS" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/sindo-tv-id.png", SINDO NEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV.id" tvg-name="ANTV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/antv-id.png", ANTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV.id" tvg-name="ANTV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/antv-id.png", ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://d1abp075u76pbq.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="BTV.id" tvg-name="BTV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/btv-id.png", BTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="BTV.id" tvg-name="BTV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/btv-id.png", BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVOne.id" tvg-name="TVONE" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvone-id.png", TVONE
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TVOne.id" tvg-name="TVONE" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvone-id.png", TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="NET.id" tvg-name="NET." tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/net-id.png", NET.
+#EXTINF:-1 group-title="INDONESIA" tvg-id="NET.id" tvg-name="NET." tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/net-id.png", NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="RTV.id" tvg-name="RTV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/rtv-id.png", RTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RTV.id" tvg-name="RTV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/rtv-id.png", RTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="KompasTV.id" tvg-name="KOMPAS TV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/kompastv-id.png", KOMPAS TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="KompasTV.id" tvg-name="KOMPAS TV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/kompastv-id.png", KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
 https://d1abp075u76pbq.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-name="METRO TV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/metrotv-id.png", METRO TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-name="METRO TV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/metrotv-id.png", METRO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
 https://d1abp075u76pbq.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TransTV.id" tvg-name="TRANS TV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/transtv-id.png", TRANS TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TransTV.id" tvg-name="TRANS TV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/transtv-id.png", TRANS TV
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Trans7.id" tvg-name="TRANS 7" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/trans7-id.png", TRANS 7
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Trans7.id" tvg-name="TRANS 7" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/trans7-id.png", TRANS 7
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="DAAITV.id" tvg-name="DAAI TV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daai-tv-id.png", DAAI TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="DAAITV.id" tvg-name="DAAI TV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daai-tv-id.png", DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
 https://d1abp075u76pbq.cloudfront.net/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Moji.id" tvg-name="MOJI" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/moji-id.png", MOJI
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Moji.id" tvg-name="MOJI" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/moji-id.png", MOJI
 http://xtv.ooo:8080/30912088/60996054/350997.ts
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="TVRINasional.id" tvg-name="TVRI NASIONAL" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nasional-id.png", TVRI NASIONAL
@@ -142,216 +125,173 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 ####################################################################### TV DERAH #######################################################################
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="JTV.id" tvg-name="JTV" tgv-url="" 
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jtv-id.png", JTV
+#EXTINF:-1 group-title="DAERAH" tvg-id="JTV.id" tvg-name="JTV" tgv-url=""  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jtv-id.png", JTV
 http://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="PadangTV.id" tvg-name="PADANG TV" tgv-url="https://padangtv.id/" 
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/padang-tv-id.png", PADANG TV
+#EXTINF:-1 group-title="DAERAH" tvg-id="PadangTV.id" tvg-name="PADANG TV" tgv-url="https://padangtv.id/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/padang-tv-id.png", PADANG TV
 https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="TVTabalong.id" tvg-name="TV TABALONG" tgv-url="" 
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/tv-tabalong-id.png", TV TABALONG
+#EXTINF:-1 group-title="DAERAH" tvg-id="TVTabalong.id" tvg-name="TV TABALONG" tgv-url=""  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/tv-tabalong-id.png", TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="JITVJogja.id" tvg-name="JITV JOGJA" tgv-url="" 
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jitv-jogja-id.png", JITV JOGJA
+#EXTINF:-1 group-title="DAERAH" tvg-id="JITVJogja.id" tvg-name="JITV JOGJA" tgv-url=""  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jitv-jogja-id.png", JITV JOGJA
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="SaktiTV.id" tvg-name="SAKTI TV" tgv-url="" 
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/sakti-tv-id.png", SAKTI TV
+#EXTINF:-1 group-title="DAERAH" tvg-id="SaktiTV.id" tvg-name="SAKTI TV" tgv-url=""  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/sakti-tv-id.png", SAKTI TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="MaduTV.id" tvg-name="MADU TV" tgv-url="" 
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/madu-tv-id.png", MADU TV
+#EXTINF:-1 group-title="DAERAH" tvg-id="MaduTV.id" tvg-name="MADU TV" tgv-url=""  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/madu-tv-id.png", MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 ####################################################################### TV ISLAMI #######################################################################
 
-#EXTINF:-1 group-title="TV RELIGI" tvg-id="AlWafaTarim.id" tvg-name="AL WAFA TARIM" tgv-url="https://alwafatarim.tv/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/al-wafa-tarim-id.png", AL WAFA TARIM
+#EXTINF:-1 group-title="TV RELIGI" tvg-id="AlWafaTarim.id" tvg-name="AL WAFA TARIM" tgv-url="https://alwafatarim.tv/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/al-wafa-tarim-id.png", AL WAFA TARIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV RELIGI" tvg-id="AlBAhjahTV.id" tvg-name="AL BAHJAH TV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/al-bahjah-tv-id.png", AL BAHJAH TV
+#EXTINF:-1 group-title="TV RELIGI" tvg-id="AlBAhjahTV.id" tvg-name="AL BAHJAH TV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/al-bahjah-tv-id.png", AL BAHJAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://albahjah.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV RELIGI" tvg-id="SurauTV.id" tvg-name="SURAU TV" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/surau-tv-id.png", SURAU TV
+#EXTINF:-1 group-title="TV RELIGI" tvg-id="SurauTV.id" tvg-name="SURAU TV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/surau-tv-id.png", SURAU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://surau.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV RELIGI" tvg-id="TVNU.id" tvg-name="TVNU" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/tv-nu-id.png", TVNU
+#EXTINF:-1 group-title="TV RELIGI" tvg-id="TVNU.id" tvg-name="TVNU" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/tv-nu-id.png", TVNU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://tvnu.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV RELIGI" tvg-id="TVMU.id" tvg-name="TVMU" tgv-url=""
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/tv-nu-id.png", TVMU
+#EXTINF:-1 group-title="TV RELIGI" tvg-id="TVMU.id" tvg-name="TVMU" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/tv-nu-id.png", TVMU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://tvmu.siar.us/ammedia/live/playlist.m3u8
 
 
 ####################################################################### TVRI GROUP #######################################################################
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRINasional.id" tvg-name="TVRI NASIONAL" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nasional-id.png", TVRI NASIONAL
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRINasional.id" tvg-name="TVRI NASIONAL" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nasional-id.png", TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISport.id" tvg-name="TVRI SPORT" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sport-id.png", TVRI SPORT
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISport.id" tvg-name="TVRI SPORT" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sport-id.png", TVRI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIWorld.id" tvg-name="TVRI WORLD" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-world-id.png", TVRI WORLD
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIWorld.id" tvg-name="TVRI WORLD" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-world-id.png", TVRI WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJakarta.id" tvg-name="TVRI JAKARTA" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jakartal-id.png", TVRI JAKARTA
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJakarta.id" tvg-name="TVRI JAKARTA" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jakartal-id.png", TVRI JAKARTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIAmbon.id" tvg-name="TVRI AMBON" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-ambon-id.png", TVRI AMBON
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIAmbon.id" tvg-name="TVRI AMBON" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-ambon-id.png", TVRI AMBON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIBali.id" tvg-name="TVRI BALI" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-bali-id.png", TVRI BALI
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIBali.id" tvg-name="TVRI BALI" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-bali-id.png", TVRI BALI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIBali.id" tvg-name="TVRI BALI" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-bangka-belitung-id.png", TVRI BANGKA BELITUNG
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIBali.id" tvg-name="TVRI BALI" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-bangka-belitung-id.png", TVRI BANGKA BELITUNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIBengkulu.id" tvg-name="TVRI BENGKULU" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-bengkulu-id.png", TVRI BENGKULU
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIBengkulu.id" tvg-name="TVRI BENGKULU" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-bengkulu-id.png", TVRI BENGKULU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIGorontalo.id" tvg-name="TVRI GORONTALO" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-gorontalo-id.png", TVRI GORONTALO
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIGorontalo.id" tvg-name="TVRI GORONTALO" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-gorontalo-id.png", TVRI GORONTALO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJabar.id" tvg-name="TVRI JABAR" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jawa-barat-id.png", TVRI JABAR
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJabar.id" tvg-name="TVRI JABAR" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jawa-barat-id.png", TVRI JABAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJambi.id" tvg-name="TVRI JAMBI" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jambi-id.png", TVRI JAMBI
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJambi.id" tvg-name="TVRI JAMBI" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jambi-id.png", TVRI JAMBI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJateng.id" tvg-name="TVRI JATENG" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jawa-tengah-id.png", TVRI JATENG
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJateng.id" tvg-name="TVRI JATENG" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jawa-tengah-id.png", TVRI JATENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJatim.id" tvg-name="TVRI JATIM" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jawa-timur-id.png", TVRI JATIM
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJatim.id" tvg-name="TVRI JATIM" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-jawa-timur-id.png", TVRI JATIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIKalbar.id" tvg-name="TVRI KALBAR" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-kalimantan-barat-id.png", TVRI KALBAR
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIKalbar.id" tvg-name="TVRI KALBAR" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-kalimantan-barat-id.png", TVRI KALBAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_1500000=10006-mp4a_96000_eng=20002.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIKalsel.id" tvg-name="TVRI KALSEL" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-kalimantan-selatan-id.png", TVRI KALSEL
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIKalsel.id" tvg-name="TVRI KALSEL" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-kalimantan-selatan-id.png", TVRI KALSEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIKalteng.id" tvg-name="TVRI KALTENG" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-kalimantan-tengah-id.png", TVRI KALTENG
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIKalteng.id" tvg-name="TVRI KALTENG" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-kalimantan-tengah-id.png", TVRI KALTENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIKaltim.id" tvg-name="TVRI KALTIM" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-kalimantan-timur-id.png", TVRI KALTIM
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIKaltim.id" tvg-name="TVRI KALTIM" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-kalimantan-timur-id.png", TVRI KALTIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRILampung.id" tvg-name="TVRI LAMPUNG" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-lampung-id.png", TVRI LAMPUNG
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRILampung.id" tvg-name="TVRI LAMPUNG" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-lampung-id.png", TVRI LAMPUNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRINTB.id" tvg-name="TVRI NTB" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nusa-tenggara-barat-id.png", TVRI NTB
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRINTB.id" tvg-name="TVRI NTB" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nusa-tenggara-barat-id.png", TVRI NTB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRINTT.id" tvg-name="TVRI NTT" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nusa-tenggara-timur-id.png", TVRI NTT
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRINTT.id" tvg-name="TVRI NTT" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nusa-tenggara-timur-id.png", TVRI NTT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIPapua.id" tvg-name="TVRI PAPUA" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-papua-id.png", TVRI PAPUA
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIPapua.id" tvg-name="TVRI PAPUA" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-papua-id.png", TVRI PAPUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIPabar.id" tvg-name="TVRI PABAR" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-papua-barat-id.png", TVRI PABAR
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIPabar.id" tvg-name="TVRI PABAR" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-papua-barat-id.png", TVRI PABAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIRiau.id" tvg-name="TVRI Riau" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-riau-id.png", TVRI RIAU
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIRiau.id" tvg-name="TVRI Riau" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-riau-id.png", TVRI RIAU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISulbar.id" tvg-name="TVRI SULBAR" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-barat-id.png", TVRI SULBAR
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISulbar.id" tvg-name="TVRI SULBAR" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-barat-id.png", TVRI SULBAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISulsel.id" tvg-name="TVRI SULSEL" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-selatan-id.png", TVRI SULSEL
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISulsel.id" tvg-name="TVRI SULSEL" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-selatan-id.png", TVRI SULSEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISulteng.id" tvg-name="TVRI SULTENG" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-tengah-id.png", TVRI SULTENG
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISulteng.id" tvg-name="TVRI SULTENG" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-tengah-id.png", TVRI SULTENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISultra.id" tvg-name="TVRI SULTRA" tgv-url="https://tvri.go.id/"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-tenggara-id.png", TVRI SULTRA
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISultra.id" tvg-name="TVRI SULTRA" tgv-url="https://tvri.go.id/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-tenggara-id.png", TVRI SULTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISulut.id" tvg-name="TVRI SULUT" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-utara-id.png", TVRI SULUT
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISulut.id" tvg-name="TVRI SULUT" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sulawesi-utara-id.png", TVRI SULUT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_2500000=10004-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISumbar.id" tvg-name="TVRI SUMBAR" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sumatera-barat-id.png", TVRI SUMBAR
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISumbar.id" tvg-name="TVRI SUMBAR" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sumatera-barat-id.png", TVRI SUMBAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISumsel.id" tvg-name="TVRI SUMSEL" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sumatera-selatan-id.png", TVRI SUMSEL
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISumsel.id" tvg-name="TVRI SUMSEL" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sumatera-selatan-id.png", TVRI SUMSEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISumut.id" tvg-name="TVRI SUMUT" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sumatera-utara-id.png", TVRI SUMUT
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRISumut.id" tvg-name="TVRI SUMUT" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-sumatera-utara-id.png", TVRI SUMUT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
 
-#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJogjakarta.id" tvg-name="TVRI JOGJAKARTA" tgv-url="https://tvri.go.id/"
-tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-yogyakarta-id.png", TVRI JOGJAKARTA
+#EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRIJogjakarta.id" tvg-name="TVRI JOGJAKARTA" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-yogyakarta-id.png", TVRI JOGJAKARTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
