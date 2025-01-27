@@ -1,6 +1,6 @@
 {
-    "versionCode": 540,
-    "versionName": "v2.4",
+    "versionCode": 103,
+    "versionName": "v1.0.3",
     "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
-    "downloadUrl": "https://github.com/hariimurti/NontonTV/releases/download/v2.4/net.harimurti.tv_v2.4_b540.apk"
+    "downloadUrl": "https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/release.apk"
 }
