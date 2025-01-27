@@ -2,12 +2,12 @@
 
 #EXTINF:-1 group-title="INFORMASI" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/ZhrTj4tc?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 ####################################################################### INDONESIA #######################################################################
 #EXTINF:-1 group-title="INDONESIA" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Indosiar.id" tvg-name="INDOSIAR" tgv-url="https://www.indosiar.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/indosiar-id.png", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -136,7 +136,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 ####################################################################### TV DERAH #######################################################################
 #EXTINF:-1 group-title="TV DAERAH" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 group-title="TV DAERAH" tvg-id="JTV.id" tvg-name="JTV" tgv-url=""  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jtv-id.png", JTV
 http://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
@@ -316,7 +316,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/playlist.m3u8
 ####################################################################### TV RELIGI #######################################################################
 #EXTINF:-1 group-title="TV RELIGI" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 group-title="TV RELIGI" tvg-id="AlWafaTarim.id" tvg-name="AL WAFA TARIM" tgv-url="https://alwafatarim.tv/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/al-wafa-tarim-id.png", AL WAFA TARIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -342,7 +342,7 @@ https://tvmu.siar.us/ammedia/live/playlist.m3u8
 ####################################################################### TVRI GROUP #######################################################################
 #EXTINF:-1 group-title="TVRI GROUP" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 group-title="TVRI GROUP" tvg-id="TVRINasional.id" tvg-name="TVRI NASIONAL" tgv-url="https://tvri.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/tvri-group/tvri-nasional-id.png", TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -477,7 +477,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=
 ####################################################################### MALAYSIA #######################################################################
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9HcP1xBKHNN1f9ZdbioMHW1GKisLp4QsTD7kbJRRw_0J6CjDRzvjWqWKl9OJmyeyuiOr5FuRi_y8InSTttbmWRp1rGRWTT1YpwfUyIq84dlHtJos_I5Lb7DkDrGABtn6CZGT13YdJbmo/s720/tv1-p+.png", TV1 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -546,7 +546,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 ####################################################################### BRUNEI #######################################################################
 #EXTINF:-1 group-title="BRUNEI" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxY_PWEaYrFu5LfLjNI6AADufAIEOl-j6_kQsILxBH171YNzFgPshB7DmnnOKatO2HIW1_gSJ430fBzmyfxpM5m8A22HD3GX-PjrWTSQo5AXGxH2EQSqv0dHyIgnhXATVtSrmvVBGVZOpfQ8EjoDtrV0Fli0P0-Hj3WrqwjiQlsjvYLmxCPGkfKknK/s720/RTBGo.png" group-title="BRUNEI",RTB Go 1
 https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.m3u8
@@ -557,7 +557,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
 ####################################################################### SINGAPORE #######################################################################
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
@@ -624,7 +624,7 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 ####################################################################### SPORTS #######################################################################
 #EXTINF:-1 group-title="SPORTS" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 tvg-id="" tvg-name="SPO TV 1" tvg-logo="https://dl.dropbox.com/scl/fi/29xcfw9o9m8z7nctgihsk/spotv1.png?rlkey=2oo4x722lorrpyl299h9dujuz&st=qzrys9bh&dl=0" group-title="SPORTS",SPO TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1197,7 +1197,7 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 ####################################################################### NEWS #######################################################################
 #EXTINF:-1 group-title="NEWS" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -1353,7 +1353,7 @@ http://210.210.155.37/uq2663/h/h91/index.m3u8
 ####################################################################### KNOWLEDGE #######################################################################
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/scl/fi/j3ayc5lmfchashj0x54kw/Animal-planet-hometv.jpg?rlkey=317d6q2qldjfeo39dw5l6118g&dl=0", Animal Planet
 #https://bit.ly/3MdG0Yx
@@ -1501,7 +1501,7 @@ https://wildearth-roku.amagi.tv/master.m3u8
 ####################################################################### MOVIES #######################################################################
 #EXTINF:-1 group-title="MOVIES" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://dl.dropbox.com/scl/fi/gphewuzg8v4eal4zcevi6/mytime.jpg?rlkey=iqy9dhrfaav1pjd4zeqefwcsu&dl=0" group-title="MOVIES",My Time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
@@ -1781,7 +1781,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ec
 ####################################################################### ENTERTAINMENT #######################################################################
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://dl.dropbox.com/scl/fi/v0cuim2r8pbe9jh9k4eyu/Mnc-enter-hometv.jpg?rlkey=dwtt9pdniq1lj8kac5tj7jj9i&dl=0",ent
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1954,7 +1954,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnterta
 ####################################################################### KIDS #######################################################################
 #EXTINF:-1 group-title="KIDS" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropbox.com/scl/fi/v6eppmxfwsqxc521063xk/animax.png?rlkey=w40ostqs1ql06z96rfy8zms97&dl=0", Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2128,7 +2128,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w12498
 ####################################################################### LIFESTYLE #######################################################################
 #EXTINF:-1 group-title="LIFESTYLE" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://dl.dropbox.com/scl/fi/ly1i38wb0oxcyv62mi655/okezone.png?rlkey=cg1d8nbrl1lg0cpu5s3ooscv1&st=b0c1rwh5&dl=0", Okezone tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -2212,7 +2212,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4
 ####################################################################### MUSIC #######################################################################
 #EXTINF:-1 group-title="MUSIC" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHkO5cto6Dc7yCZaYo3nrRBucAX6soNNBiTA3HnZhU4TlLkT508vlYEnHDtrUM0nqLt2S64Hd5EcD0KhRX6cAIit4MrsFA8psNc7T3638TBVSa3WXANlhaMY7u1ryK9ekzQZtdpMEr_Jw/s720/Music_TV_P.png" group-title="MUSIC", Music Tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2348,7 +2348,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 ####################################################################### BEIN GROUP #######################################################################
 #EXTINF:-1 group-title="BEIN GROUP" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", SMADAV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://pixeldrain.com/api/file/WiZVbRVt?download
+https://pixeldrain.com/api/file/kFDEuWdR?download
 
 #EXTINF:-1 tvg-id="beinsportsnewsar.qa" tvg-logo="https://lo1.in/bss/bsnews.png" tvg-name="AR| BEIN SPORTS NEWS HD" group-title="BEIN SPORTS",AR| BEIN SPORTS NEWS HD
 http://extraott.com:80/live/6945574629/7169628753/58.m3u8
