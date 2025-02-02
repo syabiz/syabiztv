@@ -479,13 +479,14 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_servi
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="Okey.my" tvg-name="Okey" tgv-url="https://rtmklik.rtm.gov.my/live/okey" tvg-logo="tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/malaysia/okey-my.png", Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="SukanRTM.my" tvg-name="Sukan RTM" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/malaysia/sukan-rtm-my.png", Sukan RTM
+EXTINF:-1 group-title="MALAYSIA" tvg-id="SukanRTM.my" tvg-name="Sukan RTM" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/malaysia/sukan-rtm-my.png", Sukan RTM
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="RTMAsean.my" tvg-name="RTM Asean" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/malaysia/rtm-asean-my.png", RTM Asean
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -494,10 +495,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=htt
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:asean/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="BeritaRTM.my" tvg-name="Berita RTM" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/malaysia/berita-rtm-my.png", Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="DramaHebat.my" tvg-name="DramaHebat" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/malaysia/drama-hebat-my.png", Drama Hebat
 #KODIPROP:inputstreamaddon=inputstream.adaptive
