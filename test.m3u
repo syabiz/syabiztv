@@ -1,0 +1,4 @@
+#EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1 
+#EXTVLCOPT:http-referrer=https://ok.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 #EXTVLCOPT:http-find=mycdn;m3u8 
+https://ok.ru/live/216342154
