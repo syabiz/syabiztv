@@ -1,6 +1,0 @@
-{
-    "versionCode": 103,
-    "versionName": "v3.0",
-    "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
-    "downloadUrl": "https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/release.apk"
-}
