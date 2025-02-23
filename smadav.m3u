@@ -12,14 +12,6 @@
 <pre style="word-wrap: break-word; white-space: pre-wrap;">
 
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_ID.xml,https://epg.pw/xmltv/epg_MY.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg_SG.xml,https://epg.pw/xmltv/epg.xml.gz"
-
-<!---------- ⚽︎ LIVE EVENT ---------->
-#EXTINF:-1 group-title="⚽︎ LIVE EVENT" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", ⚠ INFO ⚠
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://ia902209.us.archive.org/19/items/smadav-info-480/smadav-info-480.mp4
-<!----------------------------------->
-#EXTINF:-1 group-title="⚽︎ LIVE EVENT" tvg-logo="https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d365/live/5b34b990-e4aa-11ef-a319-fb4e7360c4ec.jpg", Plymouth 🆚 Liverpool
-
   
 <!---------- 🇮🇩 INDONESIA ---------->
 
