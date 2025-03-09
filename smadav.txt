@@ -17,7 +17,7 @@
 
 #EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="SmadavTV.id" tvg-name="SMADAV TV" tgv-url="https://www.google.com.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/smadavtv.png", ⚠ INFO ⚠
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://ia902209.us.archive.org/19/items/smadav-info-480/smadav-info-480.mp4
+https://ia903209.us.archive.org/20/items/expired-video/expired-video.ia.mp4
 
 #EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="Indosiar.id" tvg-name="INDOSIAR" tgv-url="https://www.indosiar.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/indosiar-id.png", INDOSIAR
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
